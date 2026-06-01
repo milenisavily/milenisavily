@@ -19,8 +19,11 @@ I'm a first-year Computer Science student based in Recife, Brazil. I'm passionat
 ## About me
 
 — 1st semester CS student in Recife, BR
+
 — Interested in logic, algorithms and problem-solving
+
 — Fluent in Portuguese and English
+
 — Always learning something new
 
 ---
